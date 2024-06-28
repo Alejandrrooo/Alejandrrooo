@@ -10,6 +10,7 @@ Soy un QA Engineer apasionado por la tecnología y el diseño, con experiencia e
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([www.instagram.com](https://www.facebook.com/alejandrrooo/))
 
 <h2 style="font-size:30px;">Lenguajes y Herramientas:</h2>
+<p>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python logo" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL logo" width="40" height="40"/>
@@ -21,7 +22,7 @@ Soy un QA Engineer apasionado por la tecnología y el diseño, con experiencia e
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="DevTools logo" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins logo" width="40" height="40"/>
 
-
+</p>
 
 
 
