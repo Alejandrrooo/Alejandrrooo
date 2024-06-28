@@ -5,6 +5,7 @@ Soy un QA Engineer apasionado por la tecnología y el diseño, con experiencia e
 ## Encuentrame en:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-reyes-software-qa-engineer/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([www.instagram.com](https://www.facebook.com/alejandrrooo/))
 
 
 
