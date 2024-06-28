@@ -3,9 +3,11 @@
 Soy un QA Engineer apasionado por la tecnología y el diseño, con experiencia en automatización de pruebas utilizando Python, Selenium y Pytest. He trabajado con herramientas como Jira, Postman y bases de datos SQL para asegurar la calidad de aplicaciones web y móviles. Mi enfoque en la mejora continua me permite identificar defectos y optimizar la experiencia del usuario final, contribuyendo eficazmente a equipos de desarrollo.
 
 ## Encuentrame en:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-reyes-software-qa-engineer/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandroreyes.dig@gmail.com)
+[![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-reyes-software-qa-engineer/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([www.instagram.com](https://www.facebook.com/alejandrrooo/))
+
 
 
 
