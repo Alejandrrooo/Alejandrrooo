@@ -1,7 +1,10 @@
 ## Hi there 👋
 
+Soy un QA Engineer apasionado por la tecnología y el diseño, con experiencia en automatización de pruebas utilizando Python, Selenium y Pytest. He trabajado con herramientas como Jira, Postman y bases de datos SQL para asegurar la calidad de aplicaciones web y móviles. Mi enfoque en la mejora continua me permite identificar defectos y optimizar la experiencia del usuario final, contribuyendo eficazmente a equipos de desarrollo.
+
 <!--
 **Alejandrrooo/Alejandrrooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
