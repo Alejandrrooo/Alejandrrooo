@@ -1,6 +1,7 @@
 <p align=”center”>
 
-<img width="1700" alt="Banner github" src="https://github.com/Alejandrrooo/Alejandrrooo/assets/121265718/85b6bee3-4c26-4745-821f-a5fd8f9805c0">
+
+<img width="1920" alt="Banner github (2)" src="https://github.com/Alejandrrooo/Alejandrrooo/assets/121265718/1eff11c3-8894-46e8-a618-88b467dec2e1">
 
 </p>
 
